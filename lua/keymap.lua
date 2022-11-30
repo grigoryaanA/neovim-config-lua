@@ -33,7 +33,7 @@ map('n', '<C-q>', ':qa!<CR>')
 map('n', '<C-e>', ':NvimTreeToggle<CR>') --open/close
 map('n', '<C-f>', ':NvimTreeFindFile<CR>') -- search file
 --
---Terminal ketmaps
+--Terminal keymaps
 map('n', '<C-t>', ':lua NTGlobal["terminal"]:toggle()<cr>', {silent = true})
 map('n', '<leader>+', ':lua NTGlobal["window"]:change_height(2)<cr>', {silent = true})
 map('n', '<leader>-', ':lua NTGlobal["window"]:change_height(-2)<cr>', {silent = true})
