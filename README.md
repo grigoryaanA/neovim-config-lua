@@ -41,12 +41,12 @@ under line --Add yours write use case exmp
 ### Plugin pages 
 
 ## Packer plugin manager
-[Packer Github page]([https://link-url-here.org](https://github.com/wbthomason/packer.nvim))
+[Packer Github page](https://github.com/wbthomason/packer.nvim)
 ## File explorer
-[Nvim-tree (File expolorer)]([https://link-url-here.org](https://github.com/nvim-tree/nvim-tree.lua))
+[Nvim-tree (File expolorer)](https://github.com/nvim-tree/nvim-tree.lua)
 ## Tokyonight 
-[Color Them (Tokyonight)]([https://link-url-here.org](https://github.com/folke/tokyonight.nvim))
+[Color Them (Tokyonight)](https://github.com/folke/tokyonight.nvim)
 ## Lualine Status line for neovim
-[Status Line (lualine)]([https://link-url-here.org](https://github.com/nvim-lualine/lualine.nvim))
+[Status Line (lualine)](https://github.com/nvim-lualine/lualine.nvim)
 ## nvim-terminal Costum Terminal for neovim
-[Terminal]([[https://link-url-here.org](https://github.com/nvim-lualine/lualine.nvim](https://github.com/s1n7ax/nvim-terminal)))
+[Terminal](https://github.com/nvim-lualine/lualine.nvim](https://github.com/s1n7ax/nvim-terminal)
