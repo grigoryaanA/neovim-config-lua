@@ -49,4 +49,4 @@ under line --Add yours write use case exmp
 ## Lualine Status line for neovim
 [Status Line (lualine)](https://github.com/nvim-lualine/lualine.nvim)
 ## nvim-terminal Costum Terminal for neovim
-[Terminal](https://github.com/nvim-lualine/lualine.nvim](https://github.com/s1n7ax/nvim-terminal)
+[Terminal](https://github.com/s1n7ax/nvim-terminal)
