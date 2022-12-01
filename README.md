@@ -38,15 +38,15 @@ under line --Add yours write use case exmp
     'link_from_plugin_docs',
   }
 ```
-### Plugin pages 
+## Plugin pages 
 
-## Packer plugin manager
+### Packer plugin manager
 [Packer Github page](https://github.com/wbthomason/packer.nvim)
-## File explorer
+### File explorer
 [Nvim-tree (File expolorer)](https://github.com/nvim-tree/nvim-tree.lua)
-## Tokyonight 
+### Tokyonight 
 [Color Them (Tokyonight)](https://github.com/folke/tokyonight.nvim)
-## Lualine Status line for neovim
+### Lualine Status line for neovim
 [Status Line (lualine)](https://github.com/nvim-lualine/lualine.nvim)
-## nvim-terminal Costum Terminal for neovim
+### Nvim-Terminal Costum Terminal for neovim
 [Terminal](https://github.com/s1n7ax/nvim-terminal)
